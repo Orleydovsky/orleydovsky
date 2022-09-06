@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Orleydovsky</h1>
 
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate front-end developer from Colombia</h3>
 
 <p>Bachelor in civil engineering, currently transitioning to front-end software development. I am happy to build user interfaces with the React library, using Tailwind, TypeScript, and Vite, although I quickly adapt to any other setup. Aware of how little I know? better yet: aware and expectant of how much I still must and want to learn!
 I am currently leading the creation of a mobile app for Bible studies that will benefit around 17,000 users of the Christian congregation Centro Familiar Cristiano.
